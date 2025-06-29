@@ -106,3 +106,18 @@ html {
     background-size: 200px 200px;
   }
 }
+.letter p {
+  font-size: 1.3rem;
+  line-height: 1.6;
+}
+
+.letter h2 {
+  font-size: 1.6rem;
+  margin-bottom: 0.5rem;
+}
+
+.signoff {
+  margin-top: 1.5rem;
+  font-style: italic;
+  font-size: 1.2rem;
+}
