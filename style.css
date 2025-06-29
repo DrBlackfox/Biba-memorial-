@@ -1,21 +1,14 @@
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
-    background-color: #fff8f0;
-    color: #333; margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #fefefe;
-
-  background-image: 
-    url('https://www.transparenttextures.com/patterns/paw-print.png'),
-    url('https://www.transparenttextures.com/patterns/clouds.png'),
-    url('https://www.transparenttextures.com/patterns/stardust.png');
-
-  background-repeat: repeat, repeat, repeat;
+  background: url('https://www.transparenttextures.com/patterns/paw-print.png'
+              	  'https://www.transparenttextures.com/patterns/clouds.png'
+                  'https://www.transparenttextures.com/patterns/stardust.png'
+                  'https://www.transparenttextures.com/patterns/hearts.png');
+  background-color: #f7f7f7;
+  background-repeat: repeat;
   background-attachment: fixed;
-  background-size: auto, auto, auto;
-
   color: #333;
 }
 header {
